@@ -1,6 +1,3 @@
-Here is the corrected and finalized `README.md` file. It incorporates your short 290-character description, organizes your configuration section to match the updated absolute-path backend logic, and cleans up minor syntax and typography details (such as standardizing formatting for cross-platform compatibility).
-
-```markdown
 # 💳 Credit Card Approval Prediction System
 
 The Credit Card Approval System is a Flask ML app that automates underwriting. Built with XGBoost, Scikit-learn, and SQLite, it trains models, finds the best fit, and delivers real-time predictions via a Bootstrap UI. Features include an admin dashboard, REST API, and Docker.
